@@ -1,0 +1,14 @@
+<resources>
+
+    <color name="top_bar_background">#8EB848</color>
+    <color name="splash_background">#F2EBCF</color>
+    <color name="main_background">#F2EBCF</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="nav_drawer_background">#FFFFFF</color>
+    <color name="nav_drawer_top_background">#A1D0D8</color>
+    <color name="nav_drawer_no_user_background">#AAAAAA</color>
+    <color name="dark_content_text">#333333</color>
+    <color name="sign_in_separator_color">#DDDDDD</color>
+    <color name="instructions_list_border_color">#FFDDDDDD</color>
+</resources>

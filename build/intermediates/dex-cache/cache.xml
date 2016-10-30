@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Christopher\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-ddb\2.3.3\f671a3f320bc0c7cb6e6c2c821289f0aacd6acb9\aws-android-sdk-ddb-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f671a3f320bc0c7cb6e6c2c821289f0aacd6acb9">
+        <dex dex="C:\Users\Christopher\Pictures\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-ddb-2.3.3_c784d3bfe79e65e8b919b12f9825f8d0863bf613\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Christopher\Pictures\MySampleApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b1314df580ae066ea7320d362e145314b0870816">
+        <dex dex="C:\Users\Christopher\Pictures\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e7d71fd4a8372aff8c25dcfb653e852da594fac0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Christopher\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-s3\2.3.3\c573e3c8b9fe81aa502441338155144a6217715f\aws-android-sdk-s3-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c573e3c8b9fe81aa502441338155144a6217715f">
+        <dex dex="C:\Users\Christopher\Pictures\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-s3-2.3.3_f64e3363e9f75df9b094aa13996fe98fb30db833\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Christopher\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\Christopher\Pictures\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.0_c145267aa5d284ba14a33453f6d58e22c4308643\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Christopher\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Users\Christopher\Pictures\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-android-1.2.0_ec5925dc3d2ebdb76d557a8e8b356926cae173a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Christopher\Pictures\MySampleApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fb45e7946db1fb042b526e2b8144a67ea90c4ce6">
+        <dex dex="C:\Users\Christopher\Pictures\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_45c67dc6dbe6fc1de5f04989ba2cccae65761ccf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Christopher\Pictures\MySampleApp\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
+        <dex dex="C:\Users\Christopher\Pictures\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.6.0_f698f0f664906fa0b9b08e22500b5c156ed8f1cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Christopher\Pictures\MySampleApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\Christopher\Pictures\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_155b26f3c103361ca4305ef1331a7acd2dbd97d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Christopher\Pictures\MySampleApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\Christopher\Pictures\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.0_126a2361737ee1ab0fa6c7cc59a2d9bf96405e8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Christopher\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-ddb-mapper\2.3.3\61fe1df9552f46c8d36f6bc29d90b3915a310b02\aws-android-sdk-ddb-mapper-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="61fe1df9552f46c8d36f6bc29d90b3915a310b02">
+        <dex dex="C:\Users\Christopher\Pictures\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-ddb-mapper-2.3.3_1d3952540d41512570b8f2f45009cf613874fc96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Christopher\Pictures\MySampleApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\Christopher\Pictures\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.0_8e271275a17e5f96b6e3a1f37bfe6e50edbdf62a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Christopher\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-cognito\2.3.3\62d18ff54e5bdb047ff4df01084370cb15e55c3a\aws-android-sdk-cognito-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="62d18ff54e5bdb047ff4df01084370cb15e55c3a">
+        <dex dex="C:\Users\Christopher\Pictures\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-cognito-2.3.3_6acf3ffb78dea2feb56a5e4cbf525f42e76b9226\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Christopher\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-core\2.3.3\45991c46f31e5fb14777759e0300abc156c6efa8\aws-android-sdk-core-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="45991c46f31e5fb14777759e0300abc156c6efa8">
+        <dex dex="C:\Users\Christopher\Pictures\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-core-2.3.3_a005a9c5cfd9346b054755a96f46e8460f740907\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\Christopher\Pictures\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Christopher\Pictures\MySampleApp\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Christopher\Pictures\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_78924392b7fc83826033a16116e7c4f15009c851\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Christopher\Pictures\MySampleApp\app\src\main\java\com\mysampleapp\demo\nessieandroidsdk\1.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fd81644b230578c13142021bdbf180ea23d16159">
+        <dex dex="C:\Users\Christopher\Pictures\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\classes_be2f0ac735279837344c0a392ae7ce31f005d3d3\classes.dex" />
+    </item>
+
+</items>
